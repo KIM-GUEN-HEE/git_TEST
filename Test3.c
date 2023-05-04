@@ -5,4 +5,5 @@
 int main()
 {
     printf("hello");
+    printf("hello2");// 추가함
 }
